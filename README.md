@@ -129,5 +129,5 @@ The dashboard helps identify:
 ## 👩‍💻 Author
 
 **Vikashini KC**
-🔗 https://github.com/vikashini-kc
-💻 https://linkedin.com/in/vikashini-kc
+🔗 https://github.com/vikashinichidambaram
+💻 https://linkedin.com/in/vikashini-k-c-37971b267
